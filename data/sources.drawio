@@ -1,0 +1,79 @@
+<mxGraphModel dx="50" dy="50" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff">
+  <root>
+    <mxCell id="0" />
+    <mxCell id="1" parent="0" />
+    
+    <!-- Title -->
+    <mxCell id="title" value="情報源 信頼性分布 (Source Reliability Distribution)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;shadow=1;" vertex="1" parent="1">
+      <mxGeometry x="60" y="60" width="760" height="50" as="geometry" />
+    </mxCell>
+
+    <!-- Tier 1 Section (Official/Government) -->
+    <mxCell id="t1_container" value="Tier 1: 公式情報・政府機関・法令 (High Reliability)" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;spacingLeft=10;spacingTop=10;" vertex="1" parent="1">
+      <mxGeometry x="60" y="130" width="760" height="100" as="geometry" />
+    </mxCell>
+    <mxCell id="t1_none" value="（今回の調査において該当なし）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#666666;" vertex="1" parent="t1_container">
+      <mxGeometry x="0" y="40" width="760" height="40" as="geometry" />
+    </mxCell>
+
+    <!-- Tier 2 Section (Academic/Research/Major Media) -->
+    <mxCell id="t2_container" value="Tier 2: 学術論文・研究機関・大手メディア (Reliable)" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=14;spacingLeft=10;spacingTop=10;" vertex="1" parent="1">
+      <mxGeometry x="60" y="250" width="760" height="160" as="geometry" />
+    </mxCell>
+    
+    <mxCell id="t2_1" value="COVID-19による&#10;ライブハウス文化への影響&#10;[研究/レポート] (2 refs)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;shadow=1;fontSize=12;align=left;spacing=5;" vertex="1" parent="t2_container">
+      <mxGeometry x="30" y="50" width="220" height="80" as="geometry" />
+    </mxCell>
+    <mxCell id="t2_2" value="Joseph Campbell&#10;The Hero with a Thousand Faces&#10;[学術書籍] (1 ref)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;shadow=1;fontSize=12;align=left;spacing=5;" vertex="1" parent="t2_container">
+      <mxGeometry x="270" y="50" width="220" height="80" as="geometry" />
+    </mxCell>
+    <mxCell id="t2_3" value="Blues as Temporal Experience&#10;African American Music&#10;[学術論文] (1 ref)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;shadow=1;fontSize=12;align=left;spacing=5;" vertex="1" parent="t2_container">
+      <mxGeometry x="510" y="50" width="220" height="80" as="geometry" />
+    </mxCell>
+
+    <!-- Tier 3 Section (Industry Media/Technical Blogs) -->
+    <mxCell id="t3_container" value="Tier 3: 専門メディア・業界記事・地域情報 (Reference)" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;spacingLeft=10;spacingTop=10;" vertex="1" parent="1">
+      <mxGeometry x="60" y="430" width="760" height="170" as="geometry" />
+    </mxCell>
+
+    <mxCell id="t3_1" value="足立区西保木間の地域特徴&#10;東京DEEP案内&#10;[地域メディア] (4 refs)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;shadow=1;fontSize=12;align=left;spacing=5;" vertex="1" parent="t3_container">
+      <mxGeometry x="30" y="50" width="220" height="80" as="geometry" />
+    </mxCell>
+    <mxCell id="t3_2" value="コロナ禍、絶望の淵に&#10;立たされたライブハウス&#10;[業界記事] (2 refs)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;shadow=1;fontSize=12;align=left;spacing=5;" vertex="1" parent="t3_container">
+      <mxGeometry x="270" y="50" width="220" height="80" as="geometry" />
+    </mxCell>
+    <mxCell id="t3_3" value="都内ミュージックバー特集&#10;2019年オープン店舗&#10;[Webメディア] (2 refs)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;shadow=1;fontSize=12;align=left;spacing=5;" vertex="1" parent="t3_container">
+      <mxGeometry x="510" y="50" width="220" height="80" as="geometry" />
+    </mxCell>
+
+    <!-- Tier 4 Section (Community/Inference/Internal) -->
+    <mxCell id="t4_container" value="Tier 4: コミュニティ・推論・提供情報 (Verify Required)" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=14;spacingLeft=10;spacingTop=10;" vertex="1" parent="1">
+      <mxGeometry x="60" y="620" width="760" height="280" as="geometry" />
+    </mxCell>
+
+    <mxCell id="t4_1" value="★ 提供情報 (context-rope.json)&#10;[Primary Source]&#10;開店年/住所/マスター/常連概要&#10;(7 refs)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffcc;strokeColor=#b85450;shadow=1;fontSize=12;fontStyle=1;align=left;spacing=5;" vertex="1" parent="t4_container">
+      <mxGeometry x="30" y="50" width="220" height="90" as="geometry" />
+    </mxCell>
+    
+    <mxCell id="t4_2" value="分析AIの内部知識：&#10;ナラトロジー・脚本論&#10;[推論・知識] (3 refs)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;shadow=1;fontSize=12;align=left;spacing=5;" vertex="1" parent="t4_container">
+      <mxGeometry x="270" y="50" width="220" height="90" as="geometry" />
+    </mxCell>
+
+    <mxCell id="t4_3" value="分析AIの内部知識：&#10;演出・メタファー設計&#10;[推論・設計] (3 refs)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;shadow=1;fontSize=12;align=left;spacing=5;" vertex="1" parent="t4_container">
+      <mxGeometry x="510" y="50" width="220" height="90" as="geometry" />
+    </mxCell>
+
+    <mxCell id="t4_4" value="西保木間の口コミ・評判&#10;足立区治安マップ&#10;[コミュニティデータ] (2 refs)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;shadow=1;fontSize=12;align=left;spacing=5;" vertex="1" parent="t4_container">
+      <mxGeometry x="30" y="160" width="220" height="90" as="geometry" />
+    </mxCell>
+
+    <mxCell id="t4_5" value="コピーライティング理論&#10;タイトルライティング理論&#10;[推論・知識] (2 refs)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;shadow=1;fontSize=12;align=left;spacing=5;" vertex="1" parent="t4_container">
+      <mxGeometry x="270" y="160" width="220" height="90" as="geometry" />
+    </mxCell>
+
+    <mxCell id="t4_6" value="Critic Review分析結果&#10;ドキュメンタリー倫理&#10;[内部監査] (2 refs)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;shadow=1;fontSize=12;align=left;spacing=5;" vertex="1" parent="t4_container">
+      <mxGeometry x="510" y="160" width="220" height="90" as="geometry" />
+    </mxCell>
+
+  </root>
+</mxGraphModel>

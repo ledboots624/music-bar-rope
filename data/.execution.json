@@ -1,0 +1,26 @@
+{
+  "completed_at": "2026-03-19T11:53:54Z",
+  "duration_seconds": 0,
+  "operations": [
+    {
+      "operation": "regen-diagram",
+      "timestamp": "2026-03-19T11:53:54Z",
+      "duration_seconds": 210,
+      "duration_human": "3m30s"
+    },
+    {
+      "operation": "regen-slides",
+      "timestamp": "2026-03-19T11:56:09Z",
+      "duration_seconds": 126,
+      "duration_human": "2m6s"
+    },
+    {
+      "operation": "finalize",
+      "timestamp": "2026-03-19T12:41:00Z",
+      "duration_seconds": 804,
+      "duration_human": "13m24s"
+    }
+  ],
+  "total_cumulative_seconds": 1140,
+  "last_operation_at": "2026-03-19T12:41:00Z"
+}

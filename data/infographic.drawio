@@ -1,0 +1,149 @@
+<mxGraphModel dx="50" dy="50" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff">
+  <root>
+    <mxCell id="0" />
+    <mxCell id="1" parent="0" />
+    
+    <!-- Header Background -->
+    <mxCell id="2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2D3436;strokeColor=none;shadow=1;" vertex="1" parent="1">
+      <mxGeometry x="40" y="40" width="720" height="100" as="geometry" />
+    </mxCell>
+    
+    <!-- Title -->
+    <mxCell id="3" value="西保木間ミュージックバー rope 歴史ドキュメント" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+      <mxGeometry x="50" y="50" width="700" height="40" as="geometry" />
+    </mxCell>
+    
+    <!-- Subtitle -->
+    <mxCell id="4" value="地域と音楽をつなぐ、2019年からの物語と調査レポート" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#DFE6E9;" vertex="1" parent="1">
+      <mxGeometry x="50" y="90" width="700" height="30" as="geometry" />
+    </mxCell>
+
+    <!-- Section 1: Basic Info -->
+    <mxCell id="5" value="基本情報：昭和情緒残る「陸の孤島」の灯火" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#74b9ff;strokeColor=none;fontColor=#ffffff;fontSize=16;fontStyle=1;align=left;spacingLeft=20;" vertex="1" parent="1">
+      <mxGeometry x="40" y="170" width="720" height="40" as="geometry" />
+    </mxCell>
+
+    <!-- Info Card 1: Founding -->
+    <mxCell id="6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dfe6e9;strokeColor=#b2bec3;shadow=0;" vertex="1" parent="1">
+      <mxGeometry x="40" y="230" width="220" height="140" as="geometry" />
+    </mxCell>
+    <mxCell id="7" value="OPEN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#636e72;fontStyle=1" vertex="1" parent="1">
+      <mxGeometry x="40" y="240" width="220" height="20" as="geometry" />
+    </mxCell>
+    <mxCell id="8" value="2019" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=42;fontColor=#d63031;fontStyle=1" vertex="1" parent="1">
+      <mxGeometry x="40" y="260" width="220" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="9" value="ミュージックバー文化&#10;再興の年に誕生" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#2d3436;" vertex="1" parent="1">
+      <mxGeometry x="50" y="320" width="200" height="40" as="geometry" />
+    </mxCell>
+
+    <!-- Info Card 2: Location -->
+    <mxCell id="10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dfe6e9;strokeColor=#b2bec3;shadow=0;" vertex="1" parent="1">
+      <mxGeometry x="290" y="230" width="220" height="140" as="geometry" />
+    </mxCell>
+    <mxCell id="11" value="LOCATION" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#636e72;fontStyle=1" vertex="1" parent="1">
+      <mxGeometry x="290" y="240" width="220" height="20" as="geometry" />
+    </mxCell>
+    <mxCell id="12" value="足立区&#10;西保木間" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#0984e3;fontStyle=1" vertex="1" parent="1">
+      <mxGeometry x="290" y="260" width="220" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="13" value="地域密着のスナック文化圏&#10;あえて都心を避けた選択" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#2d3436;" vertex="1" parent="1">
+      <mxGeometry x="300" y="320" width="200" height="40" as="geometry" />
+    </mxCell>
+
+    <!-- Info Card 3: Master -->
+    <mxCell id="14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dfe6e9;strokeColor=#b2bec3;shadow=0;" vertex="1" parent="1">
+      <mxGeometry x="540" y="230" width="220" height="140" as="geometry" />
+    </mxCell>
+    <mxCell id="15" value="MASTER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#636e72;fontStyle=1" vertex="1" parent="1">
+      <mxGeometry x="540" y="240" width="220" height="20" as="geometry" />
+    </mxCell>
+    <mxCell id="16" value="たいぞう君" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#00b894;fontStyle=1" vertex="1" parent="1">
+      <mxGeometry x="540" y="260" width="220" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="17" value="音楽への愛と独自の哲学&#10;（詳細は本人取材待ち）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#2d3436;" vertex="1" parent="1">
+      <mxGeometry x="550" y="320" width="200" height="40" as="geometry" />
+    </mxCell>
+
+    <!-- Section 2: Narrative -->
+    <mxCell id="18" value="物語の核：内輪ネタから普遍的神話へ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a29bfe;strokeColor=none;fontColor=#ffffff;fontSize=16;fontStyle=1;align=left;spacingLeft=20;" vertex="1" parent="1">
+      <mxGeometry x="40" y="410" width="720" height="40" as="geometry" />
+    </mxCell>
+
+    <!-- Concept Diagram -->
+    <mxCell id="19" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fab1a0;strokeColor=#e17055;shadow=1;" vertex="1" parent="1">
+      <mxGeometry x="300" y="480" width="200" height="200" as="geometry" />
+    </mxCell>
+    <mxCell id="20" value="ROPE&#10;(紐帯)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1;fontColor=#d63031;" vertex="1" parent="1">
+      <mxGeometry x="325" y="550" width="150" height="40" as="geometry" />
+    </mxCell>
+    <mxCell id="21" value="音楽・人・場所をつなぐ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#2d3436;" vertex="1" parent="1">
+      <mxGeometry x="325" y="590" width="150" height="20" as="geometry" />
+    </mxCell>
+
+    <!-- Legend Characters -->
+    <mxCell id="22" value="伝説の常連客&#10;岡ちゃん" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffeaa7;strokeColor=#fdcb6e;arcSize=50;align=center;verticalAlign=middle;fontSize=14;fontStyle=1;" vertex="1" parent="1">
+      <mxGeometry x="80" y="520" width="160" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="23" value="常連&#10;マイコちゃん" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffeaa7;strokeColor=#fdcb6e;arcSize=50;align=center;verticalAlign=middle;fontSize=14;fontStyle=1;" vertex="1" parent="1">
+      <mxGeometry x="560" y="520" width="160" height="60" as="geometry" />
+    </mxCell>
+
+    <!-- Arrows -->
+    <mxCell id="24" value="" style="endArrow=classic;html=1;strokeWidth=2;strokeColor=#636e72;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="22" target="19">
+      <mxGeometry width="50" height="50" relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="25" value="" style="endArrow=classic;html=1;strokeWidth=2;strokeColor=#636e72;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="23" target="19">
+      <mxGeometry width="50" height="50" relative="1" as="geometry" />
+    </mxCell>
+
+    <!-- Episode Box -->
+    <mxCell id="26" value="【重要エピソード】電動自転車の充電切れ伝説&#10;計算を超えた喜びに身を委ねてしまう「人間の本性」の象徴" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#55efc4;strokeColor=#00b894;align=center;verticalAlign=middle;fontSize=13;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
+      <mxGeometry x="140" y="660" width="520" height="50" as="geometry" />
+    </mxCell>
+
+    <!-- Section 3: Status & Action -->
+    <mxCell id="27" value="現状分析と今後のアクション" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ff7675;strokeColor=none;fontColor=#ffffff;fontSize=16;fontStyle=1;align=left;spacingLeft=20;" vertex="1" parent="1">
+      <mxGeometry x="40" y="750" width="720" height="40" as="geometry" />
+    </mxCell>
+
+    <!-- Pie Chart Representation (Simplified as Circles/Boxes) -->
+    <mxCell id="28" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dfe6e9;strokeColor=none;" vertex="1" parent="1">
+      <mxGeometry x="100" y="820" width="120" height="120" as="geometry" />
+    </mxCell>
+    <mxCell id="29" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d63031;strokeColor=none;direction=south;" vertex="1" parent="1">
+      <mxGeometry x="100" y="820" width="120" height="120" as="geometry" />
+    </mxCell>
+    <!-- Masking to simulate pie chart 80% -->
+    <mxCell id="30" value="80%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+      <mxGeometry x="110" y="850" width="100" height="60" as="geometry" />
+    </mxCell>
+
+    <mxCell id="31" value="ドキュメント構成の&#10;80%は未取材" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;" vertex="1" parent="1">
+      <mxGeometry x="240" y="830" width="150" height="40" as="geometry" />
+    </mxCell>
+    <mxCell id="32" value="確定情報は「開店年」「場所」「店主」「常連概要」の4点のみ。&#10;ハルシネーション（嘘）を避けるため、創作は厳禁。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+      <mxGeometry x="240" y="880" width="180" height="60" as="geometry" />
+    </mxCell>
+
+    <!-- Action List -->
+    <mxCell id="33" value="NEXT ACTIONS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2d3436;fontColor=#ffffff;strokeColor=none;align=center;fontStyle=1;" vertex="1" parent="1">
+      <mxGeometry x="450" y="820" width="280" height="30" as="geometry" />
+    </mxCell>
+    <mxCell id="34" value="1. マスターたいぞう君への詳細インタビュー&#10;2. 店名の正確な由来と開店動機の聴取&#10;3. コロナ禍での営業実態の調査&#10;4. 常連客（岡ちゃん他）への裏取り取材" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b2bec3;align=left;spacingLeft=10;fontSize=12;whiteSpace=wrap;" vertex="1" parent="1">
+      <mxGeometry x="450" y="850" width="280" height="90" as="geometry" />
+    </mxCell>
+
+    <!-- Footer: Conclusion -->
+    <mxCell id="35" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00cec9;strokeColor=none;shadow=1;" vertex="1" parent="1">
+      <mxGeometry x="40" y="980" width="720" height="100" as="geometry" />
+    </mxCell>
+    <mxCell id="36" value="結論・提言" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
+      <mxGeometry x="40" y="990" width="720" height="30" as="geometry" />
+    </mxCell>
+    <mxCell id="37" value="ropeは単なる飲食店ではなく、地域の文化拠点かつ人間ドラマの舞台である。&#10;一次情報（取材）を徹底することで、「読み手が行ってみたくなる」歴史書が完成する。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#ffffff;" vertex="1" parent="1">
+      <mxGeometry x="90" y="1020" width="620" height="50" as="geometry" />
+    </mxCell>
+
+  </root>
+</mxGraphModel>

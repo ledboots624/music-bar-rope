@@ -1,0 +1,81 @@
+<mxGraphModel dx="50" dy="50" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff">
+  <root>
+    <mxCell id="0" />
+    <mxCell id="1" parent="0" />
+    <mxCell id="title" value="西保木間ミュージックバー rope 歴史ドキュメント構成案" style="shape=label;rounded=1;arcSize=10;align=center;verticalAlign=middle;fontStyle=1;fontSize=24;fillColor=#E1D5E7;strokeColor=#9673A6;shadow=1;glass=0;sketch=0;spacing=10;" vertex="1" parent="1">
+      <mxGeometry x="60" y="20" width="600" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="timeline_axis" value="" style="endArrow=classic;html=1;strokeWidth=4;strokeColor=#666666;endFill=1;" edge="1" parent="1">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxPoint x="140" y="120" as="sourcePoint" />
+        <mxPoint x="140" y="980" as="targetPoint" />
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="group1" value="【前史】西保木間の土壌" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;fontSize=14;fillColor=#F5F5F5;strokeColor=#666666;rounded=1;shadow=0;" vertex="1" parent="1">
+      <mxGeometry x="180" y="120" width="480" height="140" as="geometry" />
+    </mxCell>
+    <mxCell id="node1_1" value="2019年以前&#10;地域コンテキスト" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=1;" vertex="1" parent="group1">
+      <mxGeometry y="30" width="480" height="30" as="geometry" />
+    </mxCell>
+    <mxCell id="node1_2" value="・下町情緒と昭和の空気が残る「陸の孤島」的住宅街&#10;・スナック、居酒屋文化が根付く土地柄&#10;・小規模ミュージックバーブームの背景" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;" vertex="1" parent="group1">
+      <mxGeometry y="60" width="480" height="80" as="geometry" />
+    </mxCell>
+    <mxCell id="date1" value="〜2018" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;" vertex="1" parent="1">
+      <mxGeometry x="110" y="160" width="60" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="conn1" value="" style="endArrow=none;html=1;strokeWidth=2;strokeColor=#666666;" edge="1" parent="1" source="date1" target="group1">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxPoint x="400" y="500" as="sourcePoint" />
+        <mxPoint x="450" y="450" as="targetPoint" />
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="group2" value="【誕生】rope 開店" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;fontSize=14;fillColor=#DAE8FC;strokeColor=#6C8EBF;rounded=1;shadow=0;" vertex="1" parent="1">
+      <mxGeometry x="180" y="300" width="480" height="160" as="geometry" />
+    </mxCell>
+    <mxCell id="node2_1" value="Music Bar rope グランドオープン" style="text;strokeColor=none;fillColor=#FFF2CC;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontStyle=1;spacing=5;" vertex="1" parent="group2">
+      <mxGeometry y="30" width="480" height="40" as="geometry" />
+    </mxCell>
+    <mxCell id="node2_2" value="【重要転換点】&#10;・マスター：たいぞう君&#10;・コンセプト：「縁（rope）」をつなぐ場所&#10;・西保木間に新たな音楽拠点が誕生" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=10;spacingRight=10;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;spacingTop=10;" vertex="1" parent="group2">
+      <mxGeometry y="70" width="480" height="90" as="geometry" />
+    </mxCell>
+    <mxCell id="date2" value="2019" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFF2CC;strokeColor=#D6B656;fontStyle=1;strokeWidth=3;fontSize=14;" vertex="1" parent="1">
+      <mxGeometry x="105" y="340" width="70" height="70" as="geometry" />
+    </mxCell>
+    <mxCell id="conn2" value="" style="endArrow=none;html=1;strokeWidth=2;strokeColor=#D6B656;" edge="1" parent="1" source="date2" target="node2_1">
+      <mxGeometry width="50" height="50" relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="group3" value="【深化】コロナ禍とコミュニティ" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;fontSize=14;fillColor=#E1D5E7;strokeColor=#9673A6;rounded=1;shadow=0;" vertex="1" parent="1">
+      <mxGeometry x="180" y="500" width="480" height="150" as="geometry" />
+    </mxCell>
+    <mxCell id="node3_1" value="2020年〜2022年頃" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=1;" vertex="1" parent="group3">
+      <mxGeometry y="30" width="480" height="30" as="geometry" />
+    </mxCell>
+    <mxCell id="node3_2" value="・コロナ禍における営業スタイルの模索と継続&#10;・地域住民との結びつきの強化&#10;・常連客（マイコちゃん等）の定着とコミュニティ形成" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;" vertex="1" parent="group3">
+      <mxGeometry y="60" width="480" height="90" as="geometry" />
+    </mxCell>
+    <mxCell id="date3" value="2020&#10;-2022" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E1D5E7;strokeColor=#9673A6;fontStyle=1;" vertex="1" parent="1">
+      <mxGeometry x="110" y="540" width="60" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="conn3" value="" style="endArrow=none;html=1;strokeWidth=2;strokeColor=#9673A6;" edge="1" parent="1" source="date3" target="group3">
+      <mxGeometry width="50" height="50" relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="group4" value="【現在】伝説の確立" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;fontSize=14;fillColor=#D5E8D4;strokeColor=#82B366;rounded=1;shadow=0;" vertex="1" parent="1">
+      <mxGeometry x="180" y="690" width="480" height="240" as="geometry" />
+    </mxCell>
+    <mxCell id="node4_1" value="「岡ちゃん」伝説の確立" style="text;strokeColor=#D79B00;fillColor=#FFE6CC;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=15;fontStyle=1;strokeWidth=2;" vertex="1" parent="group4">
+      <mxGeometry y="30" width="480" height="40" as="geometry" />
+    </mxCell>
+    <mxCell id="node4_2" value="【重要エピソード】&#10;・人物：伝説のブルースマン・岡ちゃん&#10;・出来事：電動自転車での来店と、帰りの「充電切れ」ループ&#10;・意味：計算を超えた人間味、普遍的なユーモアの象徴&#10;※ドキュメントの核心となる「愛される理由」" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=10;spacingRight=10;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;spacingTop=10;" vertex="1" parent="group4">
+      <mxGeometry y="70" width="480" height="110" as="geometry" />
+    </mxCell>
+    <mxCell id="node4_3" value="現在：西保木間のカルチャー拠点として継続営業中" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;fontStyle=2;spacingTop=10;" vertex="1" parent="group4">
+      <mxGeometry y="180" width="480" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="date4" value="2023&#10;-Now" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#D5E8D4;strokeColor=#82B366;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+      <mxGeometry x="110" y="750" width="60" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="conn4" value="" style="endArrow=none;html=1;strokeWidth=2;strokeColor=#82B366;" edge="1" parent="1" source="date4" target="node4_1">
+      <mxGeometry width="50" height="50" relative="1" as="geometry" />
+    </mxCell>
+  </root>
+</mxGraphModel>
