@@ -1,0 +1,121 @@
+{
+  "step": 1,
+  "role": "information-gathering",
+  "model": "gemini-3-pro-preview",
+  "extracted_at": "2026-03-19T11:13:14Z",
+  "claims": [
+    {
+      "claim": "下町情緒と昭和の空気が残る「陸の孤島」的住宅街。西保木間は足立区の最北端に位置し、埼玉県草加市と接するエリア。竹ノ塚駅からはやや距離があり、繁華街の喧騒から離れた落ち着きがある。大規模な商業施設よりも団地や戸建てが密集する住宅街であり、昭和の面影を色濃く残している。",
+      "evidence": "「団地だらけタウン」と形容されることもあり、マンモス団地や古い商店が点在する。竹ノ塚駅周辺のような歓楽街（フィリピンパブ等の密集地）とは異なり、地域住民向けの生活圏としての性格が強い。",
+      "source": {
+        "source_type": "community_data",
+        "source_title": "足立区西保木間の地域特徴",
+        "source_locator": "https://tokyodeep.info/hokima-and-nishihokima/",
+        "access_date": "2026-03-19",
+        "reliability_tier": "tier4",
+        "primary_source": false,
+        "community_score": {
+          "discussion_age": "not_stated",
+          "participant_count": 0,
+          "expert_presence": false,
+          "reproducibility": false
+        }
+      },
+      "confidence": "medium"
+    },
+    {
+      "claim": "地域密着型の「スナック・居酒屋文化」が根付く土壌。洗練された都市型バーよりも、地元住民がサンダル履きで通えるようなスナック・大衆居酒屋・食堂が飲食店の中心。「赤提灯」や「カラオケスナック」が似合う土地柄であり、コミュニティの結びつきは強い傾向にある。",
+      "evidence": "近隣には「居酒屋かよちゃん」「鳥敏」など個人経営の小規模店が点在。外部からの集客よりも近隣住民（常連）の日常的な利用が経済を支えている構造が見られる。",
+      "source": {
+        "source_type": "community_data",
+        "source_title": "西保木間の口コミ・評判",
+        "source_locator": "https://www.mansion-note.com/area/tokyo/ct1000495/sg1082746",
+        "access_date": "2026-03-19",
+        "reliability_tier": "tier4",
+        "primary_source": false,
+        "community_score": {
+          "discussion_age": "not_stated",
+          "participant_count": 0,
+          "expert_presence": false,
+          "reproducibility": false
+        }
+      },
+      "confidence": "medium"
+    },
+    {
+      "claim": "「治安が悪い」というパブリックイメージと実態の乖離。足立区全体・竹ノ塚エリアに対する「治安が悪い」というステレオタイプは根強いが、西保木間エリアの実態は比較的平穏な住宅地である。",
+      "evidence": "犯罪発生件数は都内平均と比較しても特筆して高くはなく、凶悪犯罪の多発地帯ではない。住民の口コミでは「長く住んでいるが危険な目にあったことはない」という声が多く、イメージ先行型の風評がある。",
+      "source": {
+        "source_type": "community_data",
+        "source_title": "足立区治安マップ",
+        "source_locator": "https://chintaibest.or.jp/adachiku_chian/",
+        "access_date": "2026-03-19",
+        "reliability_tier": "tier4",
+        "primary_source": false,
+        "community_score": {
+          "discussion_age": "not_stated",
+          "participant_count": 0,
+          "expert_presence": false,
+          "reproducibility": false
+        }
+      },
+      "confidence": "medium"
+    },
+    {
+      "claim": "2019年は「小規模ミュージックバー」の開業ブームと質の転換期。都内を中心に小規模なミュージックバー（Listening Bar, DJ Bar）の開業ラッシュがあった年であり、大箱のクラブで踊るスタイルから小規模で良質な音響と酒を楽しむ「リスニングスタイル」への回帰・移行がトレンドとなっていた。",
+      "evidence": "渋谷・下北沢などを中心に「DJ Bar 東間屋」「COUNTER CLUB」などが相次いでオープン。「クリアな音響」「こだわりの内装」「アナログレコード」を売りにした、大人が楽しめる空間作りが流行した。風営法改正（2016年）以降の市場変化として、深夜営業への規制適応や若者のクラブ離れ（落ち着いて飲みたい層の増加）が背景にある。",
+      "source": {
+        "source_type": "news_article",
+        "source_title": "東京、2019年にオープンしたミュージックバー",
+        "source_locator": "https://www.timeout.jp/tokyo/ja/nightlife/new-open-djbars2019",
+        "access_date": "2026-03-19",
+        "reliability_tier": "tier3",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "high"
+    },
+    {
+      "claim": "コミュニティ回帰と「個」のつながり。大規模イベントよりも、店主（マスター）や常連客同士の顔が見える距離感のコミュニティが重視されるようになった。",
+      "evidence": "特定のジャンルやマスターの個性に惹かれて集まる「サロン」的な機能を持つ店が支持を集めた。禁煙化や入りやすい雰囲気作りにより、女性や一人客の取り込みが進んだ時期でもある。",
+      "source": {
+        "source_type": "news_article",
+        "source_title": "都内のおすすめミュージックバー10選",
+        "source_locator": "https://aumo.jp/articles/2398724",
+        "access_date": "2026-03-19",
+        "reliability_tier": "tier3",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "medium"
+    },
+    {
+      "claim": "開店直後の試練と「三密」回避の直撃。2019年開店の店舗にとって、翌2020年初頭からのコロナ禍は致命的なタイミングでの打撃となった。特に小規模店は「三密」の典型とされ、ライブやイベントの開催が不可能になり、営業自粛を余儀なくされた。",
+      "evidence": "多くのライブバーが休業・時短営業に追い込まれ、収入が途絶えた。2019年のブームで生まれた新店舗が、定着する前に淘汰されるケースも多発した。",
+      "source": {
+        "source_type": "industry_report",
+        "source_title": "COVID-19によるライブハウス文化への影響",
+        "source_locator": "https://covid19.jaspm.jp/archives/1852",
+        "access_date": "2026-03-19",
+        "reliability_tier": "tier2",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "high"
+    },
+    {
+      "claim": "生き残りの鍵となった「ローカル・コミュニティ」の絆。行政支援（持続化給付金等）の限界の中で、存続できた店舗の多くは常連客による支援（クラウドファンディング、先払いチケット、テイクアウト利用等）に支えられた。",
+      "evidence": "地域の「居場所」としての機能を維持できた店が常連の支援を受けて延命した事例が多い。ライブ配信への移行も模索されたが、小規模店では収益化のハードルが高く、結局はリアルな人間関係がセーフティネットとなった。",
+      "source": {
+        "source_type": "news_article",
+        "source_title": "コロナ禍、絶望の淵に立たされたライブハウス",
+        "source_locator": "https://note.com/magical_river/n/n7ac0feb2d3ee",
+        "access_date": "2026-03-19",
+        "reliability_tier": "tier3",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "high"
+    }
+  ]
+}

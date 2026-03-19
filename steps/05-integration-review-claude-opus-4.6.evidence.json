@@ -1,0 +1,112 @@
+{
+  "step": 5,
+  "role": "integration-review",
+  "model": "claude-opus-4.6",
+  "extracted_at": "2026-03-19T11:29:53Z",
+  "claims": [
+    {
+      "claim": "現時点でエビデンスとして使用可能な確定情報は、context-rope.jsonに記載された（1）開店年2019年、（2）所在地・西保木間、（3）マスター・たいぞう君、（4）常連客2名の概要（マイコちゃん＝常連客、岡ちゃん＝伝説のブルースマン・電動自転車・充電切れ）の4点に限られる。ドキュメントの主要8章のうち、この4点のみで執筆可能なのは「基本情報の紹介」に留まり、残りの章はたいぞう君・常連への取材なしには執筆不可能である。",
+      "evidence": "context-rope.jsonの`known_facts`フィールドの内容、およびCritic Reviewが指摘した「情報ギャップ」6項目（店名由来、年表、業態・規模、コロナ禍対応、マイコちゃんのエピソード、地域比較対象）の全てが未収集である事実。",
+      "source": {
+        "source_type": "community_data",
+        "source_title": "context-rope.json（プロジェクトコンテキストファイル）",
+        "source_locator": "ローカルファイル: context-rope.json",
+        "access_date": "2026-03-19",
+        "reliability_tier": "tier4",
+        "primary_source": true,
+        "community_score": {
+          "discussion_age": "N/A（プロジェクト定義ファイル）",
+          "participant_count": 1,
+          "expert_presence": true,
+          "reproducibility": false
+        }
+      },
+      "confidence": "high"
+    },
+    {
+      "claim": "前ステップにおいて演出設計（メタファーマップ、タイトル案、冒頭コピー、具体的シーン描写）が一次情報収集に先行して確定的に提示された。これはMUST制約の「ハルシネーション回避」「一次情報最優先」と構造的に矛盾しており、取材結果によっては演出フレーム全体の再構成が必要になるリスクを内包している。",
+      "evidence": "Critic Reviewが検出した矛盾2（「ハルシネーション回避」と「具体的シーン生成」の矛盾）、バイアス1（確証バイアス：演出枠に事実を当てはめる傾向）。特に「ロープは切れなかった」メタファーが店名由来未確認のまま使用されている点。",
+      "source": {
+        "source_type": "unknown",
+        "source_title": "Critic Review分析結果（本プロジェクト内部文書）",
+        "source_locator": "プロジェクト内ステップ出力",
+        "access_date": "2026-03-19",
+        "reliability_tier": "tier4",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "high"
+    },
+    {
+      "claim": "岡ちゃんの電動自転車充電切れエピソードは、ropeの「居心地の良さ」を象徴するエピソードとして高い物語的ポテンシャルを持つ。ただし、「充電切れ＝居心地が良すぎて長居した証拠」という解釈は分析者の推論であり、岡ちゃん本人の認識（単に充電管理が甘い、充電器を忘れた等）と乖離する可能性がある。",
+      "evidence": "context-rope.jsonのknown_facts記載内容、Critic Reviewのバイアス1（確証バイアス）指摘。",
+      "source": {
+        "source_type": "community_data",
+        "source_title": "context-rope.json（プロジェクトコンテキストファイル）",
+        "source_locator": "ローカルファイル: context-rope.json",
+        "access_date": "2026-03-19",
+        "reliability_tier": "tier4",
+        "primary_source": true,
+        "community_score": {
+          "discussion_age": "N/A（プロジェクト定義ファイル）",
+          "participant_count": 1,
+          "expert_presence": true,
+          "reproducibility": false
+        }
+      },
+      "confidence": "medium"
+    },
+    {
+      "claim": "Step1・Step2で調査された日本のミュージックバー文化史・西保木間エリアの地域特色は、ropeの物語に文脈を与える「舞台設定」として機能する。ただし、これらはropeに直接言及する情報ではないため、ドキュメント内では「一般的背景」と「ropeの固有事実」を視覚的・構造的に区別する必要がある。",
+      "evidence": "Critic Reviewの不足2（西保木間エリアの実証的根拠の欠如）、Source Coverage Summaryにおけるtier1ソースゼロの事実。",
+      "source": {
+        "source_type": "news_article",
+        "source_title": "東京DEEP案内——竹ノ塚・西保木間エリア記事",
+        "source_locator": "https://tokyodeep.info",
+        "access_date": "unknown",
+        "reliability_tier": "tier3",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "medium"
+    },
+    {
+      "claim": "context-rope.jsonの`audience`定義は「ropeの常連客・音楽好きのファン・地域コミュニティ」であり、一次読者は既にropeを知る人々である。内輪ノリを全面排除すると主要読者の満足度が低下する。内輪エピソードを新規読者にも伝わるよう「翻訳」（文脈補足を付加）するアプローチが最適である。",
+      "evidence": "Critic Reviewのバイアス3（新規客向け過剰補正バイアス）の指摘、context-rope.jsonのpresentation.audience設定。",
+      "source": {
+        "source_type": "community_data",
+        "source_title": "context-rope.json（プロジェクトコンテキストファイル）",
+        "source_locator": "ローカルファイル: context-rope.json",
+        "access_date": "2026-03-19",
+        "reliability_tier": "tier4",
+        "primary_source": true,
+        "community_score": {
+          "discussion_age": "N/A（プロジェクト定義ファイル）",
+          "participant_count": 1,
+          "expert_presence": true,
+          "reproducibility": false
+        }
+      },
+      "confidence": "high"
+    },
+    {
+      "claim": "context-rope.jsonで指定された14ページ構成は目安として妥当だが、取材結果の情報量によってページ配分は大幅に変動し得る。特に年表パート（2019〜2026）は、取材で判明するイベント数に応じて2〜4ページの幅が想定される。",
+      "evidence": "context-rope.jsonのpresentation設定（pages: 14, type: クロニクル年表型）、現時点で年表に記入可能な確定イベントがゼロである事実。",
+      "source": {
+        "source_type": "community_data",
+        "source_title": "context-rope.json（プロジェクトコンテキストファイル）",
+        "source_locator": "ローカルファイル: context-rope.json",
+        "access_date": "2026-03-19",
+        "reliability_tier": "tier4",
+        "primary_source": true,
+        "community_score": {
+          "discussion_age": "N/A（プロジェクト定義ファイル）",
+          "participant_count": 1,
+          "expert_presence": true,
+          "reproducibility": false
+        }
+      },
+      "confidence": "medium"
+    }
+  ]
+}

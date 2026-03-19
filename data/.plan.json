@@ -1,0 +1,55 @@
+{
+  "topic": "西保木間ミュージックバーrope 歴史ドキュメント作成",
+  "description": "2019年開店の西保木間ミュージックバーropeとマスターたいぞう君の歩みを、地域文脈と常連客エピソードを交えて記録・物語化するためのリサーチおよび構成パイプライン",
+  "generated_by": "planner",
+  "steps": [
+    {
+      "id": "step1_context_gathering",
+      "step": 1,
+      "role": "information-gathering",
+      "model": "gemini-3-pro-preview",
+      "prompt_focus": "西保木間エリアの地域特性（人口動態、文化施設、夜の経済）および2019年前後の日本の小規模ミュージックバー・ライブハウスシーンのトレンドを調査せよ。コロナ禍がこの種の店舗に与えた一般的な影響も含め、ropeの物語の『舞台背景』となる客観的文脈を収集すること。",
+      "depends_on": []
+    },
+    {
+      "id": "step2_narrative_construction",
+      "step": 2,
+      "role": "deep-analysis",
+      "model": "claude-sonnet-4.6",
+      "prompt_focus": "提供された断片情報（たいぞう君の想い、岡ちゃんの充電切れエピソード等）とStep1の背景情報を統合し、ストーリーの骨子（プロット）を構築せよ。特に『開店の経緯』から『コロナ禍のサバイバル』『常連との絆』へ続く物語のミッシングリンクを特定し、マスター本人へ取材すべき具体的なインタビュー質問リスト（開店日の天気、最初の客、忘れられない失敗談など）を作成せよ。",
+      "depends_on": [
+        "step1_context_gathering"
+      ]
+    },
+    {
+      "id": "step3_episode_integration",
+      "step": 3,
+      "role": "deep-analysis",
+      "model": "claude-sonnet-4.6",
+      "prompt_focus": "常連客（マイコちゃん、岡ちゃん等）のエピソードを、単なる内輪ネタではなく『ropeの魅力』を象徴する普遍的な物語として再構成せよ。例えば『岡ちゃんの電動自転車の充電切れ』を、店の居心地の良さや時間の流れの速さのメタファーとして解釈するなど、ユーモアと感動を両立させる演出プランを策定すること。",
+      "depends_on": [
+        "step2_narrative_construction"
+      ]
+    },
+    {
+      "id": "step4_critic_review",
+      "step": 4,
+      "role": "critic-review",
+      "model": "claude-sonnet-4.6",
+      "prompt_focus": "構築された構成案に対し、批判的レビューを行え。1. 新規客や部外者にとっても読み物として成立しているか（内輪ノリの排除）。2. 事実に基づかない美談（ハルシネーション）が含まれるリスクはないか。3. 西保木間という地域社会への貢献や位置づけが客観的に語られているか。改善点を指摘せよ。",
+      "depends_on": [
+        "step3_episode_integration"
+      ]
+    },
+    {
+      "id": "step5_final_integration",
+      "step": 5,
+      "role": "integration-review",
+      "model": "claude-opus-4.6",
+      "prompt_focus": "全ステップの成果とレビュー結果を統合し、最終的な『西保木間ミュージックバーrope 歴史ドキュメント』の目次構成および執筆ガイドラインを出力せよ。年表、人物紹介、各章のあらすじを含み、読み手が『行ってみたくなる』魅力的なドキュメント構成を完成させること。",
+      "depends_on": [
+        "step4_critic_review"
+      ]
+    }
+  ]
+}
