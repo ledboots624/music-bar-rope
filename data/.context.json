@@ -1,6 +1,6 @@
 {
   "context_type": "research_scope",
-  "theme": "default",
+  "theme": "music",
   "description": "西保木間ミュージックバーropeとマスターたいぞう君の歴史・歩みを記録・ドキュメント化するための調査コンテキスト",
   "data": {
     "purpose": "2019年開店の西保木間ミュージックバーropeとマスターたいぞう君の歩みを、常連客・関係者が楽しめる形で歴史としてまとめる",
@@ -48,7 +48,6 @@
     "interview_available": true,
     "output_tone": "常連客・音楽好きのファンが読んで楽しい、親しみやすくユーモアを交えた歴史ドキュメント"
   },
-  "theme": "ocean",
   "presentation": {
     "enabled": true,
     "type": "クロニクル年表型",

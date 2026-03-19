@@ -209,3 +209,23 @@
 [2026-03-19 21:41:00 INFO] サイト生成: <1s
 [2026-03-19 21:41:00 INFO] 統合ファイナライズ完了
 [2026-03-19 21:41:00 INFO] 統合ファイナライズ時間: 13m24s
+[2026-03-19 22:20:08 INFO] === 静的サイト生成モード ===
+[2026-03-19 22:20:08 INFO] ログHTML生成中...
+[2026-03-19 22:20:12 INFO] ログHTML生成完了: /Users/shige/work/test-claude/remote-test/public/music-bar-rope/logs/research-log.html
+[2026-03-19 22:20:12 INFO] CSSテーマ: ocean (オーシャン（ティール）)
+[2026-03-19 22:20:12 INFO] index.html 生成完了: /Users/shige/work/test-claude/remote-test/public/music-bar-rope/index.html
+[2026-03-19 22:20:12 INFO] presentation.html 生成完了: /Users/shige/work/test-claude/remote-test/public/music-bar-rope/presentation.html
+[2026-03-19 22:20:12 INFO] detail.html 生成完了: /Users/shige/work/test-claude/remote-test/public/music-bar-rope/detail.html
+[2026-03-19 22:20:12 INFO] verification.html 生成完了: /Users/shige/work/test-claude/remote-test/public/music-bar-rope/verification.html
+[2026-03-19 22:20:12 INFO] records.html 生成完了: /Users/shige/work/test-claude/remote-test/public/music-bar-rope/records.html
+[2026-03-19 22:20:12 INFO] viewer.html 生成完了: /Users/shige/work/test-claude/remote-test/public/music-bar-rope/viewer.html
+[2026-03-19 22:20:49 INFO] === 静的サイト生成モード ===
+[2026-03-19 22:20:49 INFO] ログHTML生成中...
+[2026-03-19 22:20:53 INFO] ログHTML生成完了: /Users/shige/work/test-claude/remote-test/public/music-bar-rope/logs/research-log.html
+[2026-03-19 22:20:53 INFO] CSSテーマ: music (ミュージック（音符＋暖色）)
+[2026-03-19 22:20:53 INFO] index.html 生成完了: /Users/shige/work/test-claude/remote-test/public/music-bar-rope/index.html
+[2026-03-19 22:20:53 INFO] presentation.html 生成完了: /Users/shige/work/test-claude/remote-test/public/music-bar-rope/presentation.html
+[2026-03-19 22:20:53 INFO] detail.html 生成完了: /Users/shige/work/test-claude/remote-test/public/music-bar-rope/detail.html
+[2026-03-19 22:20:53 INFO] verification.html 生成完了: /Users/shige/work/test-claude/remote-test/public/music-bar-rope/verification.html
+[2026-03-19 22:20:53 INFO] records.html 生成完了: /Users/shige/work/test-claude/remote-test/public/music-bar-rope/records.html
+[2026-03-19 22:20:53 INFO] viewer.html 生成完了: /Users/shige/work/test-claude/remote-test/public/music-bar-rope/viewer.html
